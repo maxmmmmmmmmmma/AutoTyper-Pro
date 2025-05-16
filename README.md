@@ -42,6 +42,8 @@ AutoTyper Pro is a realistic, customizable typing simulator built with Python an
 1. Download AutoTyper.exe from the Releases section
 2. Double-click to run
 
+👉 [Download AutoTyper v1.0 (.exe)](https://github.com/maxmmmmmmmmmma/AutoTyper-Pro/releases/latest)
+
 **Option 2 – Run from Python:**
 ```bash
     pip install -r requirements.txt
